@@ -1,6 +1,8 @@
 # Vodafone SMS Spammer
 
-Send annoying repetitive messages to a specific number
+Send annoying repetitive messages to a specific number (Vodafone Only) 
+
+You can use it only to prank your friends XD
 
 ## Requirements
 
